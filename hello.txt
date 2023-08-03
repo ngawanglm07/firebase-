@@ -1,0 +1,4 @@
+hello welcome to the firebase application volume 1 where we only push data to the realtime database of firebase
+using fetch api we fetch api from the database
+
+
